@@ -1,12 +1,14 @@
 *{
-    background-color: beige;
+    background-color: bisque;
     margin: 0px;
     padding: auto;
 }
 #logo{
-    border: 2px solid black;
+    border: 2px solid;
     width: 500px;
     margin: 60px;
+    padding: 10px 10px 10px 10px;
+    background-color: beige;
 }
 ul{
     list-style: none;
