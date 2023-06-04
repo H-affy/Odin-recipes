@@ -1,0 +1,29 @@
+*{
+    background-color: beige;
+    margin: 0px;
+    padding: auto;
+}
+#logo{
+    border: 2px solid black;
+    width: 500px;
+    margin: 60px;
+}
+ul{
+    list-style: none;
+}
+#pasta{
+    padding: 20px;
+    background-color: beige;
+    text-align: center;
+}
+#cheese{
+    background-color: green;
+    padding: 20px;
+    text-align: center;
+}
+#yoghurts{
+    background-color: purple;
+    padding: 20px;
+    text-align: center;
+}
+
